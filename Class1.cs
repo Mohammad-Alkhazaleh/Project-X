@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace GitPractice
 {
-    internal class Class1
+    public class Class1
     {
+       public static void PrintName()
+        {
+            Console.WriteLine("Mohammad");
+        }
+
     }
 }
