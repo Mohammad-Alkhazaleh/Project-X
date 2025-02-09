@@ -14,6 +14,7 @@ namespace GitPractice
 
             Console.WriteLine("Hello Mohammad !");
             Class1.PrintName();
+            Console.WriteLine("Hello Isaak from a new branch!");
         }
     }
 }
