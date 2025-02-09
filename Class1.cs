@@ -13,5 +13,11 @@ namespace GitPractice
             Console.WriteLine("Mohammad");
         }
 
+        public static void PrintName(string Name)
+        {
+            Console.WriteLine(Name);
+
+        }
+
     }
 }
